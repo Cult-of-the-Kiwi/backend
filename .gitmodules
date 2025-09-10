@@ -1,0 +1,27 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/Cult-of-the-Kiwi/api-gateway
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/Cult-of-the-Kiwi/auth-service
+[submodule "call-service"]
+	path = call-service
+	url = https://github.com/Cult-of-the-Kiwi/call-service
+[submodule "fluvio"]
+	path = fluvio
+	url = https://github.com/Cult-of-the-Kiwi/fluvio
+[submodule "group-service"]
+	path = group-service
+	url = https://github.com/Cult-of-the-Kiwi/group-service
+[submodule "message-service"]
+	path = message-service
+	url = https://github.com/Cult-of-the-Kiwi/message-service
+[submodule "notification-service"]
+	path = notification-service
+	url = https://github.com/Cult-of-the-Kiwi/notification-service
+[submodule "topic_structs"]
+	path = topic_structs
+	url = https://github.com/Cult-of-the-Kiwi/topic_structs
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/Cult-of-the-Kiwi/user-service
